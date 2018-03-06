@@ -1,3 +1,4 @@
+autoscan
 aclocal
 autoconf
 automake -a
